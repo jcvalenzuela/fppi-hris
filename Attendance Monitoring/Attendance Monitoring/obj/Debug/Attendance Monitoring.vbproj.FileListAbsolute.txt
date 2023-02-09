@@ -1,0 +1,48 @@
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.exe
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.pdb
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.xml
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.frmDailyTimeMonitoring.resources
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.Resources.resources
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.exe
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.xml
+c:\users\jc\documents\visual studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.pdb
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPDevNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPEngNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPGuiNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPShrNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPVerNET.dll
+C:\Users\JC\Documents\Visual Studio 2015\Projects\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbprojResolveAssemblyReference.cache
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.exe
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.xml
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.pdb
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.exe
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.pdb
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.xml
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbprojResolveAssemblyReference.cache
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.frmDailyTimeMonitoring.resources
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.Resources.resources
+V:\IT\System\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPDevNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPEngNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPGuiNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPShrNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\DPFPVerNET.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.frmDailyTimeMonitoring.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance_Monitoring.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Attendance Monitoring.application
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\obj\Debug\Attendance Monitoring.application
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Resources\goodbye.wav
+C:\Users\Admin\Documents\Visual Studio 2015\Attendance Monitoring\Attendance Monitoring\bin\Debug\Resources\welcome.wav
